@@ -7,10 +7,12 @@ public class Program2 {
     int age = sc.nextInt();
     sc.close();
     if (age >= 18) {
-      System.out.println("Major");
+      System.out.println("maajor");
     } else {
       System.out.println("Minor");
     }
+    
+
   }
 
 }

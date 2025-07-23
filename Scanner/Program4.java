@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import javax.swing.event.SwingPropertyChangeSupport;
-
 public class Program4 {
   public static void main(String[] args) {
     System.out.println("Enter your age : ");
@@ -20,6 +18,10 @@ public class Program4 {
     System.out.println("Height: " + height);
     System.out.println("Single ? : " + single);
     System.out.println("Phone Number: " + phoneno);
+    sc.close();
+    scc.close();
+    scn.close();
+    scs.close();
   }
 
 }

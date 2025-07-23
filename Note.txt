@@ -1,0 +1,3 @@
+InputMismatchException: 
+If the Programmer/user enters a invalid input value then it will lead to the exception called as InputMismatchException.
+
