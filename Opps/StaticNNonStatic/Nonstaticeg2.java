@@ -1,4 +1,4 @@
-package Opps;
+package Opps.StaticNNonStatic;
 
 class Example {
   int x = 15;

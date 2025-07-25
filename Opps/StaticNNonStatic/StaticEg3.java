@@ -1,4 +1,4 @@
-package Opps;
+package Opps.StaticNNonStatic;
 
 class Alpha {
   static String str = "Shrey";

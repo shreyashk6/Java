@@ -1,4 +1,4 @@
-package Opps;
+package Opps.StaticNNonStatic;
 class Beta{
   String str = "Shrey";
   char val = 'h';

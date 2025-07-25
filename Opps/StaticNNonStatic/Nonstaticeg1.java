@@ -1,4 +1,4 @@
-package Opps;
+package Opps.StaticNNonStatic;
 
 class Delta {
   int a = 26;
