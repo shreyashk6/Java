@@ -4,19 +4,21 @@ public class FibonacciSeries {
     //     return 0;
     // }
     public static void main(String[] args) {
-        int n= 50;
-        int n1=0;
-        int n2=1;
-        int sum;
-        System.out.print(n1+" "+n2);
-        while(n!=2){
+        int n= 15;
+        int a=0;
+        int b=1;
+        int sum=0;
+        //System.out.print(a+" "+b);
+        int i=1;                                                                                                                                                                                                                                       
+        while(i<=n){
             
-            sum=n1+n2;
-            n1=n2;
-            n2=sum;
-            n--;
+            sum=a+b;
+            a=b;
+            b=sum;
+            i++;
 
-            System.out.print(" "+sum+" ");
+            //System.out.print(" "+sum+" ");
         }
+        System.out.println(sum);//PRINTS THE Nth NUMBER OF THE FIBONACCI SERIES.
     }
 }
