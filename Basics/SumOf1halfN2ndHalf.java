@@ -1,3 +1,7 @@
+import java.util.Scanner;
+/*
+ * 
+ */
 public class SumOf1halfN2ndHalf {
 
     static int countOfDigits(int n){
@@ -6,24 +10,32 @@ public class SumOf1halfN2ndHalf {
             n/=10;
             count++;
             
-        }return (count/2);
+        }return (count);
         
     }
-    public static void main(String[] args) {
-        int n = 123111;
-        int sum1=0;
-        int sum2=0;
-        int sum=0;
-        while ( ) {
-            
-        
-            int last = n%10;
-
-
-
-            sum+=last;
-            n/=10;
+    static int power(int base,int ex){
+        int pow =1;
+        for (int i =1;i<=ex;i++){
+            pow=pow*base;
         }
+        return pow;
+    }
+    public static void main(String[] args) {
+        System.out.print("ENTER A NUMBER with even count: ");
+        Scanner sc = new Scanner(System.in);
+
+        int n = sc.nextInt();
+        sc.close();
+        int count = countOfDigits(n);
+
+
+        int x = power(10, count/2);//10 IS FOR WHEN THE DIGITS ARE EVEN NUMBER 
+       // System.out.println(x);
+        int firstHalf= n/x;
+       // System.out.println(firstHalf);
+        int secondHalf= n%x;
+        //System.out.println(secondHalf);
+        int sum = firstHalf+secondHalf;
         System.out.println(sum);
     }
 }
