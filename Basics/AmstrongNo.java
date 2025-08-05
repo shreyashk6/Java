@@ -21,9 +21,9 @@ public class AmstrongNo {
             int lastDigit = iteration % 10; 
             ans = 1;
             for(int i = 0; i < expf; i++){
-                ans = ans * lastDigit;
-            }
+                ans = ans * lastDigit;}
             sum += ans;
+
             iteration /= 10;
         }
         return sum;
