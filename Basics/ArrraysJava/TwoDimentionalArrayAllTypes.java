@@ -2,7 +2,7 @@ package ArrraysJava;
 
 import java.util.Scanner;
 
-public class TwoDimentionalArray {
+public class TwoDimentionalArrayAllTypes {
     public static void main(String[] args) {
 //         String[][] ticTacToe = {
 //             {"X", "O", "X"},
