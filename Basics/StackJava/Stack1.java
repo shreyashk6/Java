@@ -1,3 +1,4 @@
+package StackJava;
 import java.util.Stack;
 
 public class Stack1 {
