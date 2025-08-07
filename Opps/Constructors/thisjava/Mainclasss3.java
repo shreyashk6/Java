@@ -3,8 +3,12 @@ class Amazon{
     Amazon(){
         System.out.println("Code to Initialize Shopping");
     }
+    Amazon(int a){
+        this();
+        System.out.println("Add to Cart!");
+    }
     Amazon(double subscription){
-        this(); //Calls Above Amazon()
+        this(1); //Calls Above Amazon()
         System.out.println("Code to Initialize Prime Video");
         System.out.println("Code to Initialize Prime Music");
     }
