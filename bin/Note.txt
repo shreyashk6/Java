@@ -1,0 +1,6 @@
+InputMismatchException: 
+If the Programmer/user enters a invalid input value then it will lead to the exception called as InputMismatchException.
+
+Predefined MEthod Overloading Example:
+sysoutprint() & sysout println()
+cz it can gv any kinds of outputs like string/int/double and more and its Predefined.

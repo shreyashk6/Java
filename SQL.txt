@@ -1,0 +1,70 @@
+SQL
+SQL (Structured Query Language) is the standard programming language used to communicate with and manage data in relational databases.
+Why is it used?
+SQL is used because it provides a universal, efficient, and powerful way to handle structured data. Nearly every application that stores data in a structured way—from your banking app to social media—uses a database that speaks SQL.
+
+Its main purposes are to perform the four core operations, often called CRUD:
+Create: Add new data.
+SQL Command: INSERT
+Example: Adding a new user to a website's database.
+
+Read: Retrieve data.
+SQL Command: SELECT
+Example: Finding all customers who live in a specific city.
+
+Update: Modify existing data.
+SQL Command: UPDATE
+Example: Changing a user's email address.
+
+Delete: Remove data.
+SQL Command: DELETE
+Example: Removing a product that is no longer for sale.
+
+DATA:
+Data is a Raw Fact which describes the properties of an object
+Properties is also called as Attributes.
+
+Raw Fact : Without any modification we call it as Original truth or natural truth. EX PANCARD No.
+
+Database: Database is a place where we can store the data iiin a systematic organized manner. In database we are performing operations called CRUD
+
+
+DBMS : (DataBase Management System)
+DBMS is a software which is used to maintain and manage the databse
+Features: Security and Authorization
+We store data in FILE FORMAT
+QUERY Language is used to communicate with DBMS
+
+RDBMS:
+A type of software that is used to Maintain Manage Databbse.
+Features: Security and Authorization
+we store data in the form of TABLE FORMAT.
+SQL is used to communicatre with RDBMS
+
+Relational Model:
+Any DBMS that follows the Relational Model that'll  be converted into RDBMS.
+In Realtional model we store the data in a form of tabular format.
+
+Rules of E.F.CODD:
+1. The data Entered into the cell must be single value.
+2. Acc. to the rules of E.F.CODD we can give connections for the multiple tables with help of KEY ATTRIBUTES.
+3. In RDBMS we store the data in the form of tabulr format which includes meta data.
+4. Data can be validate in 2 types:
+  I. Data Types
+      1. CHAR: Used to store fixed-length text, padding any unused space.
+
+      2. VARCHAR/VARCHAR2: Stores variable-length text, saving space by only using as much as needed.
+
+      3. NUMBER: Used for all kinds of numeric data, including integers and decimals.
+
+      4. DATE: Stores date and time information, such as a specific day or timestamp.
+
+      5. Large Objects (LOBs): These are special types used for storing very large amounts of data.
+
+      Character (CLOB): Used for storing huge blocks of text, like an entire document.
+
+      Binary (BLOB): Used for storing large files like images, videos, or audio clips.
+
+  II. Constraints
+    Constraints: These are rules applied to table columns to ensure the accuracy and reliability of the data.
+
