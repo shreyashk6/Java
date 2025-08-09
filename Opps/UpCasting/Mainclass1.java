@@ -9,6 +9,8 @@ public class Mainclass1 {
         System.out.println(de);
     }
 }
+// ASSIGNING A REFERENCE OF SUBCLASS TO SUPER CLASS IS CALLED UPCASTING.
+//ONLY WORKS WHEN THERES EXTENDS KEYWORD. (i.e  INHERITANCE).
 class Demo{
 
 }
