@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "test1",
+            "request": "launch",
+            "mainClass": "test1",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "LeftRightRemover",
+            "request": "launch",
+            "mainClass": "LeftRightRemover",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Spynos",
+            "request": "launch",
+            "mainClass": "Spynos",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Mainclass1",
+            "request": "launch",
+            "mainClass": "Mainclass1",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
             "name": "Manclass3",
             "request": "launch",
             "mainClass": "Manclass3",

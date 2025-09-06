@@ -1,5 +1,6 @@
 package Opps.Interfacee;
 
+
 public class Mainclass1 {
   public static void main(String[] args) {
     Demo ref = new Sample();

@@ -1,4 +1,4 @@
-package Opps.DownCasting;
+
 
 public class Mainclass1 {
     public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class Mainclass1 {
             c.coffeeDetails();
         }
         else{
-            tea t =(Tea)d1;
+            Tea t =(Tea)d1;
             t.teaDetails();
         }
     }

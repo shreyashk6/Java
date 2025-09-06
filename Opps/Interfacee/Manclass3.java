@@ -1,4 +1,4 @@
-package Opps.Interfacee;
+
 
 interface Lovable {
     void love();

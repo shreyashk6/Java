@@ -1,7 +1,7 @@
-package Opps.Interfaces;
 
 interface Delta {
     void play();
+
     void disp();
 }
 
@@ -20,7 +20,7 @@ class Example implements Delta { // FIX: Changed 'delta' to 'Delta'
 public class Mainclass2 {
     public static void main(String[] args) {
         // FIX: Use the correct interface name 'Delta'
-        Delta ref = new Example(); 
+        Delta ref = new Example();
         ref.play();
         ref.disp();
     }
