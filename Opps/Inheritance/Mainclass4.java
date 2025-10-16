@@ -1,4 +1,4 @@
-package Opps.Inheritance;
+// package Opps.Inheritance;
 class InstagramOG{
     void post(){
         System.out.println("Post Photos");
@@ -11,7 +11,7 @@ class InstagramReels extends InstagramOG{
 }
 public class Mainclass4 {
     public static void main(String[] args) {
-        InstagramReels reels =  new InstagramReels();
+        InstagramReels reels =  new InstagramReels();//child class has been callled cz inherited
         reels.post();
         reels.reel();
         

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9573fc77-9f61-43de-8c7b-3ccb2b309c71" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/DDList/DDList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/DDList/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/DDList/src/NodeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/out/production/LeetCode/LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/out/production/Methods/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/out/production/Methods/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/out/production/Methods/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/out/production/Methods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/out/production/Methods/Example1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/out/production/Methods/Example2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/out/production/Methods/Example3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/out/production/Methods/Example5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/out/production/Methods/Example6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/out/production/Methods/Example7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/out/production/Methods/Example8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/out/production/Methods/Program10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/out/production/Methods/Program5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/out/production/Methods/Program6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/out/production/Methods/Program7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/out/production/Methods/Program8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/out/production/Methods/Program9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Mainclass1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Amazon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Biryani.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/City.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Container.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Curve.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Delta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Iphone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Mainclass10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Mainclass11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Mainclass12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Mainclass13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Mainclass3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Mainclass4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Mainclass5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Mainclass6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Mainclass7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Mainclass8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Mainclass9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/Alpha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/Amazon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/Beta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/City.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/Delta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/Engineer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/Mainclass2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/Mainclass4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/Mainclass5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/Mainclass6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/Mainclass7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/Mainclasss3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/Sample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/out/production/Constructors/Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Mainclass1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/Alpha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/Amazon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/Beta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/City.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/Delta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/Engineer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/Mainclass2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/Mainclass4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/Mainclass5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/Mainclass6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/Mainclass7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/Mainclasss3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/out/production/thisjava/Opps/Constructors/thisjava/Sample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Interfacee/out/production/Interfacee/Delta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Interfacee/out/production/Interfacee/Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Interfacee/out/production/Interfacee/Hatable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Interfacee/out/production/Interfacee/Lovable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Interfacee/out/production/Interfacee/Mainclass2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Interfacee/out/production/Interfacee/Mainclass4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Interfacee/out/production/Interfacee/Manclass3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Interfacee/out/production/Interfacee/Opps/Interfacee/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Interfacee/out/production/Interfacee/Opps/Interfacee/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Interfacee/out/production/Interfacee/Opps/Interfacee/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Interfacee/out/production/Interfacee/Opps/Interfacee/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Interfacee/out/production/Interfacee/Opps/Interfacee/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Interfacee/out/production/Interfacee/Opps/Interfacee/Interfacee.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Interfacee/out/production/Interfacee/Opps/Interfacee/Mainclass1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Interfacee/out/production/Interfacee/Opps/Interfacee/Sample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opps/Interfacee/out/production/Interfacee/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.lock_info" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.lock_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/4.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/BrowserMetrics/BrowserMetrics-68A81697-3890.pma" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Crashpad/settings.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Crashpad/settings.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/BrowsingTopicsState" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/BrowsingTopicsState" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Cache/Cache_Data/data_0" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Cache/Cache_Data/data_0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Cache/Cache_Data/data_1" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Cache/Cache_Data/data_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Cache/Cache_Data/data_2" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Cache/Cache_Data/data_2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Cache/Cache_Data/data_3" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Cache/Cache_Data/data_3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Code Cache/js/index-dir/the-real-index" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Code Cache/js/index-dir/the-real-index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/DIPS" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/DIPS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/DawnGraphiteCache/data_1" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/DawnGraphiteCache/data_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/DawnWebGPUCache/data_1" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/DawnWebGPUCache/data_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Extension State/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Extension State/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Extension State/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Extension State/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Favicons" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Favicons" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/GPUCache/data_1" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/GPUCache/data_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/History" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/History" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Local Storage/leveldb/000003.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Local Storage/leveldb/000003.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Local Storage/leveldb/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Local Storage/leveldb/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Local Storage/leveldb/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Local Storage/leveldb/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Network Action Predictor" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Network Action Predictor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Network/Network Persistent State" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Network/Network Persistent State" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Network/TransportSecurity" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Network/TransportSecurity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Preferences" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Preferences" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Secure Preferences" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Secure Preferences" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Session Storage/000003.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Session Storage/000003.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Session Storage/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Session Storage/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Session Storage/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Session Storage/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Site Characteristics Database/000003.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Site Characteristics Database/000003.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Site Characteristics Database/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Site Characteristics Database/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Site Characteristics Database/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Site Characteristics Database/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Sync Data/LevelDB/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Sync Data/LevelDB/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Sync Data/LevelDB/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Sync Data/LevelDB/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Web Data" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/Web Data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/favorites_diagnostic.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/favorites_diagnostic.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/shared_proto_db/000003.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/shared_proto_db/000003.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/shared_proto_db/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/shared_proto_db/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/shared_proto_db/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/shared_proto_db/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/shared_proto_db/metadata/000003.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/shared_proto_db/metadata/000003.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/shared_proto_db/metadata/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/shared_proto_db/metadata/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/shared_proto_db/metadata/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Default/shared_proto_db/metadata/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/GrShaderCache/data_0" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/GrShaderCache/data_0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/GrShaderCache/data_1" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/GrShaderCache/data_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/GrShaderCache/data_3" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/GrShaderCache/data_3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/GraphiteDawnCache/data_1" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/GraphiteDawnCache/data_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Last Version" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Last Version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Local State" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/Local State" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/ShaderCache/data_1" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/ShaderCache/data_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/SmartScreen/RemoteData/edgeSettings" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/SmartScreen/RemoteData/edgeSettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/SmartScreen/RemoteData/edgeSettings_2.0-0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/component_crx_cache/1ab07e887acca305058eeab9053c96dc531c2c5c067ab4f30afa2b31f1edd966" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/component_crx_cache/6b1561d18d6d7d238c1fa4fb8aef54e1f1e6b574d958bc0a41ca955f90afd7dc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/component_crx_cache/a99d66cfce8ca170740ce0403956f4dfaf4683829a89f4b7ad9c95303871e284" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/component_crx_cache/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.swt/EBWebView/component_crx_cache/metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/AmstrongNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/AmstrongNo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/Opps/Constructors/Mainclass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/Mainclass1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/Opps/Constructors/Mainclass3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Constructors/Mainclass3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/Opps/Constructors/Mainclass4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Constructors/Mainclass4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/Opps/Constructors/Mainclass5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Constructors/Mainclass5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/Opps/Constructors/thisjava/Mainclass1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/Opps/Constructors/thisjava/Mainclass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/Mainclass2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/Opps/Constructors/thisjava/Mainclass4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/Mainclass4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/Opps/Constructors/thisjava/Mainclass5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/Mainclass5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/Opps/Constructors/thisjava/Mainclass6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/Mainclass6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/Opps/Constructors/thisjava/Mainclass7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/Mainclass7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/Opps/Constructors/thisjava/Mainclasss3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Constructors/thisjava/Mainclasss3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/PrimeNo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/PrimeNo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/forloops.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/forloops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/Abstractionss/Mainclass4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Abstractionss/Mainclass4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/ClassObjects/Mainclass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/ClassObjects/Mainclass2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/ClassObjects/Mainclass5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/ClassObjects/Mainclass5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/ClassObjects/Mainclass7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/ClassObjects/Mainclass7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/Constructors/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Constructors/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/Constructors/Mainclass12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Constructors/Mainclass12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/Constructors/Mainclass2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/Constructors/Mainclass6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Constructors/Mainclass6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/Constructors/Mainclass7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Constructors/Mainclass7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/Constructors/Mainclass7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Constructors/Mainclass7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/Constructors/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Constructors/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/Encapsulation/Account1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Encapsulation/Account1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/Encapsulation/Person1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Encapsulation/Person1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/Inheritance/Mainclass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Inheritance/Mainclass1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/Inheritance/Mainclass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Inheritance/Mainclass2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/Inheritance/Mainclass4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Inheritance/Mainclass4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/Inheritance/Mainclass5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Inheritance/Mainclass5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/Interfacee/Mainclass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/Interfacee/Mainclass1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/StaticNNonStatic/Nonstaticeg1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/StaticNNonStatic/Nonstaticeg1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/StaticNNonStatic/Nonstaticeg2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/StaticNNonStatic/Nonstaticeg2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/StaticNNonStatic/Nonstaticeg4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/StaticNNonStatic/Nonstaticeg4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/StaticNNonStatic/StaticEg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/StaticNNonStatic/StaticEg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/UpCasting/Mainclass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/UpCasting/Mainclass1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/UpCasting/Mainclass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/UpCasting/Mainclass2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/UpCasting/Mainclass3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/UpCasting/Mainclass3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/UpCasting/Mainclass4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/UpCasting/Mainclass4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opps/UpCasting/Mainclass5Flipcart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Opps/UpCasting/Mainclass5Flipcart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/TargetSumOf2ElementsinArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/TargetSumOf2ElementsinArray.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3477WevullHZiBKM591O7UNzcKL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/shrey/Desktop/VS-Studio/Java/ExceptionHandling",
+    "onboarding.tips.debug.path": "C:/Users/shrey/Desktop/VS-Studio/Java/ExceptionHandling/MainClass1/src/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9573fc77-9f61-43de-8c7b-3ccb2b309c71" name="Changes" comment="" />
+      <created>1760552789292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760552789292</updated>
+    </task>
+    <servers />
+  </component>
+</project>

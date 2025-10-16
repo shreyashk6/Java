@@ -1,4 +1,4 @@
-package Opps.UpCasting;
+// package Opps.UpCasting;
 class A{
     void test(){
         System.out.println("test()...");

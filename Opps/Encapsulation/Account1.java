@@ -1,4 +1,4 @@
-package Opps.Encapsulation;
+ package Opps.Encapsulation;
 
 public class Account1 {
     private long accNo;

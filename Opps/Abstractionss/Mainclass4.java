@@ -10,35 +10,30 @@ public class Mainclass4 {
     PhoneManager.details(op);
   }
 }
-
 abstract class Android {
   abstract void ui();
 
   void service() {
   }
 }
-
 class Samsung extends Android {
   @Override
   void ui() {
     System.out.println("Samsunng UI");
   }
 }
-
 class OnePlus extends Android {
   @Override
   void ui() {
     System.out.println("Oneplus UI");
   }
 }
-
 class Oppo extends Android {
   @Override
   void ui() {
     System.out.println("Vivo UI");
   }
 }
-
 class PhoneManager {
   static void details(Android a) {
     if (a != null) {

@@ -1,4 +1,4 @@
-package Opps.StaticNNonStatic;
+// package Opps.StaticNNonStatic;
 
 class Delta {
   int a = 26;
@@ -11,6 +11,9 @@ class Delta {
 public class Nonstaticeg1 {
   public static void main(String[] args) {
     System.out.println(new Delta().a);
-    new Delta().test();
+
+    // Delta d = new Delta();
+    // d.test();
+    new Delta().test();//both r same   but here we arent saving object in memory
   }
 }

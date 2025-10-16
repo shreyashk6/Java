@@ -1,4 +1,4 @@
-package Opps.ClassObjects;
+// package Opps.ClassObjects;
 class Account{
     long accNum;
     double accBal;
@@ -18,7 +18,7 @@ public class Mainclass5 {
         Account a1= new Account();
         a1.accNum=3456453456678L;
         a1.accBal=250000.0;
-        a1.deposit(5000);
+        a1.deposit(10000);
         a1.withdrawal(5000);
 
         Account a2 = new Account();

@@ -1,4 +1,4 @@
-package Opps.UpCasting;
+// package Opps.UpCasting;
 class Alpha{
     void help(){
         System.out.println("Executing help()...");
@@ -16,7 +16,8 @@ public class Mainclass2 {
         ref.send();
         Alpha obj =  ref; // UPCASTING BETA----> ALPHA.
         obj.help();
-        //obj.send();---> CTE After Upcasting we cannot access sub-class properties.
         
+        //obj.send();---> CTE After Upcasting we cannot access sub-class properties.
+        //ref.send();/-->Still Possible
     }
 }

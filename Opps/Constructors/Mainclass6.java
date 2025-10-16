@@ -1,17 +1,17 @@
-package Opps.Constructors;
+// package Opps.Constructors;
 class Person{
     String name;
     int age;
     char gender;
     Person(String s,int a, char c){
-        name = s;
+        this.name = s;//can ve declared this way too
         age = a;
         gender=c;
     }
 }
 public class Mainclass6 {
     public static void main(String[] args) {
-        Person p1 = new Person("Shreyas H K", 22, 'M');
+        Person p1 = new Person("Shreyas H K", 22, 'M');//calls Person contructor
         System.out.println("Name: "+p1.name+" age: "+p1.age+" Gender: "+p1.gender);
 
         Person p2 = new Person("Chutiya afran", 22, 'T');

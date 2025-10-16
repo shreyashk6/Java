@@ -17,7 +17,7 @@ public class StaticEg {
   public static void main(String[] args) {
     System.out.println(Sample.x);
     System.out.println(Sample.y);
-    Sample.test();
+    Sample.test();//in non-statiic we can call directly with "CLASS_NAME.WHATEVER_REQUIRED"
     Sample.play();
   }
 

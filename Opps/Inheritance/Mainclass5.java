@@ -1,4 +1,4 @@
-package Opps.Inheritance;
+// package Opps.Inheritance;
 
 
 class Whataspp1{
@@ -18,7 +18,7 @@ class Whatsapp3 extends Whatsapp2{
 }
 public class Mainclass5 {
     public static void main(String[] args) {
-        Whatsapp3 wa = new Whatsapp3();
+        Whatsapp3 wa = new Whatsapp3();//wa3 has in herited has a grand child soo it has inhrited all properties of parents n grandparent classes6
         wa.message();
         wa.call();
         wa.status();

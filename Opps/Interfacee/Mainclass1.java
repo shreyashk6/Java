@@ -14,7 +14,7 @@ interface Demo {
 
 class Sample implements Demo {
   @Override
-  public void test() {
+  public void test()     {
     System.out.println("Exxecuting test()...");
   }
 }
